@@ -1,0 +1,4 @@
+openai
+goodmem
+pytest
+pytest-asyncio
